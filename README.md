@@ -1,6 +1,6 @@
 # Explicode
 
-![Download Extension](https://marketplace.visualstudio.com/items?itemName=Explicode.explicode)
+[Download Extension](https://marketplace.visualstudio.com/items?itemName=Explicode.explicode)
 
 Explicode revolutionizes the way you document code by allowing you to write **rich Markdown documentation directly alongside your implementation**, just like Overleaf does for LaTeX. Since the documentation lives inside **comments**, it does **not affect your code** and works with **any programming language**.  
 
