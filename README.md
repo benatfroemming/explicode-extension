@@ -8,7 +8,8 @@ By keeping the docs in the code rather than in external files, updating and coll
 
 You can add **headers, text styling, math, and images**, making it ideal for **academia, open source projects, and math-heavy repositories** like AI/ML. Finally, your documentation can be **exported as Markdown or HTML** for sharing or publishing.
 
-![GIF](demo.gif)
+![](https://github.com/benatfroemming/explicode-extension/blob/main/demo.gif)
+
 
 ---
 
