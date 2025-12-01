@@ -1,12 +1,14 @@
 # Explicode
 
+![Download Extension](https://marketplace.visualstudio.com/items?itemName=Explicode.explicode)
+
 Explicode revolutionizes the way you document code by allowing you to write **rich Markdown documentation directly alongside your implementation**, just like Overleaf does for LaTeX. Since the documentation lives inside **comments**, it does **not affect your code** and works with **any programming language**.  
 
 By keeping the docs in the code rather than in external files, updating and collaborating becomes seamless—**version control works the same way as your code with Git**. Explicode lets you open a live preview on the right side of your editor, rendering both code and Markdown in real time.  
 
 You can add **headers, text styling, math, and images**, making it ideal for **academia, open source projects, and math-heavy repositories** like AI/ML. Finally, your documentation can be **exported as Markdown or HTML** for sharing or publishing.
 
-![GIF](images/demo.gif)
+![GIF](demo.gif)
 
 ---
 
